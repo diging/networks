@@ -17,7 +17,7 @@ The early sections of this series will deal with the basics of any introduction 
 
 These are [interactive Python notebooks](http://ipython.org/). Most of the content is just marked-down text that provides expository on some concept or technique. Some of the cells are "code" cells, which look like this:
 
-```
+```python
 In [1]: print "This is a code cell!"
 ```
 
