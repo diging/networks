@@ -41,10 +41,10 @@ The notebooks in this series are made available under the GNU General Public Lic
 
 This table will be updated as new notebooks are added.
 
-* **0: [Introduction](0.%20Introduction.ipynb).**
-* 1: First steps with Python.
-* 2: Objects and types.
-* 3: Flow control: if, elif, else, and friends.
+* [0. Introduction](0.%20Introduction.ipynb).
+* [1. First steps with Python](1.%20First%20steps%20with%20Python.ipynb).
+* [2. Objects and types](2.%20Objects%20and%20types.ipynb).
+* [3. Flow control: if, elif, else, and friends.](3.%20Flow%20control.%20if%2C%20elif%2C%20else%2C%20and%20friends.ipynb)
 * 4: Functions and functional programming.
 * 5: I/O: working with data! Numpy and Pandas.
 * 6: Our first tabular graph. Layout and visualization in Cytoscape.
